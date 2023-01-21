@@ -1,0 +1,17 @@
+/Users/macbook/Downloads/C# projects/GussianFormulaSolveUsingMeanAndStandardDeviation/GussianFormula/obj/Debug/net6.0/GussianFormula.csproj.AssemblyReference.cache
+/Users/macbook/Downloads/C# projects/GussianFormulaSolveUsingMeanAndStandardDeviation/GussianFormula/obj/Debug/net6.0/GussianFormula.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Downloads/C# projects/GussianFormulaSolveUsingMeanAndStandardDeviation/GussianFormula/obj/Debug/net6.0/GussianFormula.AssemblyInfoInputs.cache
+/Users/macbook/Downloads/C# projects/GussianFormulaSolveUsingMeanAndStandardDeviation/GussianFormula/obj/Debug/net6.0/GussianFormula.AssemblyInfo.cs
+/Users/macbook/Downloads/C# projects/GussianFormulaSolveUsingMeanAndStandardDeviation/GussianFormula/obj/Debug/net6.0/GussianFormula.csproj.CoreCompileInputs.cache
+/Users/macbook/Downloads/C# projects/GussianFormulaSolveUsingMeanAndStandardDeviation/GussianFormula/bin/Debug/net6.0/GussianFormula
+/Users/macbook/Downloads/C# projects/GussianFormulaSolveUsingMeanAndStandardDeviation/GussianFormula/bin/Debug/net6.0/GussianFormula.deps.json
+/Users/macbook/Downloads/C# projects/GussianFormulaSolveUsingMeanAndStandardDeviation/GussianFormula/bin/Debug/net6.0/GussianFormula.runtimeconfig.json
+/Users/macbook/Downloads/C# projects/GussianFormulaSolveUsingMeanAndStandardDeviation/GussianFormula/bin/Debug/net6.0/GussianFormula.dll
+/Users/macbook/Downloads/C# projects/GussianFormulaSolveUsingMeanAndStandardDeviation/GussianFormula/bin/Debug/net6.0/GussianFormula.pdb
+/Users/macbook/Downloads/C# projects/GussianFormulaSolveUsingMeanAndStandardDeviation/GussianFormula/bin/Debug/net6.0/MathNet.Numerics.dll
+/Users/macbook/Downloads/C# projects/GussianFormulaSolveUsingMeanAndStandardDeviation/GussianFormula/obj/Debug/net6.0/GussianFormula.csproj.CopyComplete
+/Users/macbook/Downloads/C# projects/GussianFormulaSolveUsingMeanAndStandardDeviation/GussianFormula/obj/Debug/net6.0/GussianFormula.dll
+/Users/macbook/Downloads/C# projects/GussianFormulaSolveUsingMeanAndStandardDeviation/GussianFormula/obj/Debug/net6.0/refint/GussianFormula.dll
+/Users/macbook/Downloads/C# projects/GussianFormulaSolveUsingMeanAndStandardDeviation/GussianFormula/obj/Debug/net6.0/GussianFormula.pdb
+/Users/macbook/Downloads/C# projects/GussianFormulaSolveUsingMeanAndStandardDeviation/GussianFormula/obj/Debug/net6.0/GussianFormula.genruntimeconfig.cache
+/Users/macbook/Downloads/C# projects/GussianFormulaSolveUsingMeanAndStandardDeviation/GussianFormula/obj/Debug/net6.0/ref/GussianFormula.dll
